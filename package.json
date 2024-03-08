@@ -1,6 +1,6 @@
 {
   "homepage": "https://MARWAN-elmasrry.github.io/Expense-Tracker",
-  "name": "expense-tracker-react",
+  "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
